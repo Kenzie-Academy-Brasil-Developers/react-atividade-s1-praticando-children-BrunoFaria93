@@ -1,0 +1,17 @@
+.centeredCard{
+    border: 2px solid red;
+    height: 25vh;
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    align-items: center;
+}
+.centeredCard span {
+    height: 10vh;
+    width: 70%;
+    border: 2px solid pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
